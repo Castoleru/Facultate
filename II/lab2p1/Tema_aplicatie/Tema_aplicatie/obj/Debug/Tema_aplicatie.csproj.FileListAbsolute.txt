@@ -1,0 +1,14 @@
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\bin\Debug\Tema_aplicatie.exe.config
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\bin\Debug\Tema_aplicatie.exe
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\bin\Debug\Tema_aplicatie.pdb
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Properties.Resources.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.csproj.GenerateResource.cache
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.exe
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.pdb
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Form2.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.LCump.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.csprojAssemblyReference.cache
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Convertor.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Calendar.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Xand0.resources
+S:\II\lab2p1\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.Form1.resources

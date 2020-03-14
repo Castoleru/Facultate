@@ -1,0 +1,10 @@
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.exe
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.deps.json
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.runtimeconfig.json
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.runtimeconfig.dev.json
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.dll
+S:\II\Lab1_3\Lab1_3\bin\Debug\netcoreapp3.1\Lab1_3.pdb
+S:\II\Lab1_3\Lab1_3\obj\Debug\netcoreapp3.1\Lab1_3.AssemblyInfoInputs.cache
+S:\II\Lab1_3\Lab1_3\obj\Debug\netcoreapp3.1\Lab1_3.AssemblyInfo.cs
+S:\II\Lab1_3\Lab1_3\obj\Debug\netcoreapp3.1\Lab1_3.dll
+S:\II\Lab1_3\Lab1_3\obj\Debug\netcoreapp3.1\Lab1_3.pdb

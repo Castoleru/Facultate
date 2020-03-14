@@ -1,0 +1,10 @@
+S:\II\lab2p1\Lab2p4\Lab2p4\bin\Debug\Lab2p4.exe.config
+S:\II\lab2p1\Lab2p4\Lab2p4\bin\Debug\Lab2p4.exe
+S:\II\lab2p1\Lab2p4\Lab2p4\bin\Debug\Lab2p4.pdb
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.csprojAssemblyReference.cache
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.Form1.resources
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.Properties.Resources.resources
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.csproj.GenerateResource.cache
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.exe
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.pdb
+S:\II\lab2p1\Lab2p4\Lab2p4\obj\Debug\Lab2p4.Form2.resources
