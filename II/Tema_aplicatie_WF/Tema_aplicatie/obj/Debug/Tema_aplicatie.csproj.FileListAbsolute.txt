@@ -26,3 +26,17 @@ S:\git_Facultate\Facultate\II\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplic
 S:\git_Facultate\Facultate\II\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.csproj.GenerateResource.cache
 S:\git_Facultate\Facultate\II\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.exe
 S:\git_Facultate\Facultate\II\Tema_aplicatie\Tema_aplicatie\obj\Debug\Tema_aplicatie.pdb
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\bin\Debug\Tema_aplicatie.exe.config
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\bin\Debug\Tema_aplicatie.exe
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\bin\Debug\Tema_aplicatie.pdb
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.csprojAssemblyReference.cache
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Calendar.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Convertor.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Form1.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Form2.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.LCump.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Properties.Resources.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.Xand0.resources
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.csproj.GenerateResource.cache
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.exe
+S:\git_Facultate\Facultate\II\Tema_aplicatie_WF\Tema_aplicatie\obj\Debug\Tema_aplicatie.pdb

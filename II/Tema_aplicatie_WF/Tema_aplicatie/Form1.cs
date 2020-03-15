@@ -58,10 +58,12 @@ namespace Tema_aplicatie
                 user.Clear();
                 pass.Clear();
                 str.Close();
-            }else
+                progressBar2.SetState(1);
+            }
+            else
             {
-                MessageBox.Show("Username existent");
                 progressBar2.SetState(2);
+                MessageBox.Show("Username existent");
 
             }
         }
@@ -90,14 +92,18 @@ namespace Tema_aplicatie
             }
             if (ok == false)
             {
-                MessageBox.Show("Parola gresita");
-
                 progressBar1.SetState(2);
+                MessageBox.Show("Parola gresita");
             }
+           
             streamReader.Close();
 
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     public static class ModifyProgressBarColor
     {

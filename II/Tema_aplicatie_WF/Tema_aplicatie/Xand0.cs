@@ -194,5 +194,10 @@ namespace Tema_aplicatie
             button9.Enabled = false;
             check();
         }
+
+        private void Xand0_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

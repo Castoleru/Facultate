@@ -53,11 +53,11 @@ namespace Tema_aplicatie
         private void button2_Click(object sender, EventArgs e)
         {
             double grade = Convert.ToDouble(masaTB.Text);
-            if (celsius.Checked)
+            if (kg.Checked)
             {
                 masaLb.Text = grade * 2.20 + " Pounds";
             }
-            if (Far.Checked)
+            if (pounds.Checked)
             {
                 masaLb.Text = grade/2.20 + " Kg";
             }

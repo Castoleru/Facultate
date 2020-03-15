@@ -50,5 +50,10 @@ namespace Lab2p3
             rezult = numar2 ^ numar1;
             rez.Text = "" + rezult;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -160,6 +160,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Xand0";
             this.Text = "Xand0";
+            this.Load += new System.EventHandler(this.Xand0_Load);
             this.ResumeLayout(false);
 
         }

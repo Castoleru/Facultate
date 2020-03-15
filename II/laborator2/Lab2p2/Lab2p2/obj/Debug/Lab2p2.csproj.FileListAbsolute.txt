@@ -7,3 +7,12 @@ S:\II\lab2p1\Lab2p2\Lab2p2\obj\Debug\Lab2p2.Properties.Resources.resources
 S:\II\lab2p1\Lab2p2\Lab2p2\obj\Debug\Lab2p2.csproj.GenerateResource.cache
 S:\II\lab2p1\Lab2p2\Lab2p2\obj\Debug\Lab2p2.exe
 S:\II\lab2p1\Lab2p2\Lab2p2\obj\Debug\Lab2p2.pdb
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\bin\Debug\Lab2p2.exe.config
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\bin\Debug\Lab2p2.exe
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\bin\Debug\Lab2p2.pdb
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.csprojAssemblyReference.cache
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.Form1.resources
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.Properties.Resources.resources
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.csproj.GenerateResource.cache
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.exe
+S:\git_Facultate\Facultate\II\laborator2\Lab2p2\Lab2p2\obj\Debug\Lab2p2.pdb

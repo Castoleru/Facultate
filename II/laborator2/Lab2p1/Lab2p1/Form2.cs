@@ -23,5 +23,10 @@ namespace Lab2p1
         {
             Environment.Exit(1);
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

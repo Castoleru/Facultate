@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace Lab2p1
 {
+   
     public partial class Form1 : Form
     {
         public Form1()
@@ -50,6 +51,11 @@ namespace Lab2p1
             usertb.Clear();
             passtb.Clear();
             str.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
