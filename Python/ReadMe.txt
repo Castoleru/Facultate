@@ -1,0 +1,1 @@
+Aici se regasesc exercitiile rezolvate in urma cursului de pe udemy (Python)
