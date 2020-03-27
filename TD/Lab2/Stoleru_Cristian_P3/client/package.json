@@ -1,0 +1,12 @@
+{
+  "name": "chat-client",
+  "version": "0.0.1",
+  "description": "Data Transmission socket application",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "socket.io-client": "^2.2.0"
+  }
+}

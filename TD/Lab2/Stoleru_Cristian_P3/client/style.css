@@ -1,0 +1,22 @@
+body {
+padding : 20px;
+text-align : center;
+background-color :#f5f5f5;
+}
+
+#rez {
+height : 75px;
+width :300px;
+margin : 0 auto;
+background-color : #fff;
+color : red;
+text-align : center;
+line-height : 50px;
+font-size : 30px;
+}
+
+#inc : hover {
+cursor : pointer;
+background-color : #8cb8ff;
+color :#fff;
+}

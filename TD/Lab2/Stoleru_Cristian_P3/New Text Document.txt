@@ -1,0 +1,3 @@
+server - node server.js
+client --> npm install live-server -g
+---> live-server

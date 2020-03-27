@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+}
+
+.user-row {
+  margin: 20px auto;
+  background-color: rgb(255, 254, 234);
+  padding: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+.user-row:hover {
+  background-color: rgb(255, 251, 175);
+}
+
+.user-name {
+  width: 150px;
+  display: inline-block;
+}
+
+.user-city {
+  width: 150px;
+  display: inline-block;
+}
