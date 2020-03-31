@@ -1,0 +1,14 @@
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\bin\Debug\Database1.mdf
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\bin\Debug\Database1_log.ldf
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\bin\Debug\myDataBase.exe.config
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\bin\Debug\myDataBase.exe
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\bin\Debug\myDataBase.pdb
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.csprojAssemblyReference.cache
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.Properties.Resources.resources
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.csproj.GenerateResource.cache
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.exe
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.pdb
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.Form1.resources
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.Add.resources
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.Delete.resources
+S:\git_Facultate\Facultate\II\laborator3\test\myDataBase\myDataBase\obj\Debug\myDataBase.Update.resources
