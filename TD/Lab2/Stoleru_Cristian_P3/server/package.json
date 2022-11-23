@@ -4,6 +4,6 @@
   "description": "Data Transmission socket application",
   "dependencies": {},
   "devDependencies": {
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
