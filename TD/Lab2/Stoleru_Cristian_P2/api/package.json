@@ -4,9 +4,9 @@
   "private": true,
   "version": "0.0.1",
   "dependencies": {
-    "body-parser": "^1.12.2",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
-    "express": "3.x"
+    "express": "4.x"
   },
   "main": "Prototype",
   "devDependencies": {}
